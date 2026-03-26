@@ -26,7 +26,7 @@
 
 ## 🚀 How to Run
 1. **Clone the repo:**
-   `git clone https://github.com/sadiya/sms-spam-detection.git`
+   `https://github.com/sadiyahassan1674-afk/sms-spam-detector.git`
 2. **Install dependencies:**
    `pip install scikit-learn pandas matplotlib seaborn`
 3. **Run the script:**
